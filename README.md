@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there fellow viewer I am Omkar Dutta
 
 <!--
 **Omkistark/Omkistark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me: 
+I am a college student currently pursuing my Bachelor's degree in Computer Science Engineering.
+
+I’m currently working on improving my coding skills💻.
+
+⚡ Fun fact: I am capable of binge watching TV shows for 16 hours straight😁.
