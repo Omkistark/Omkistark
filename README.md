@@ -1,5 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omkistark&show_icons=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkistark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omkistark&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkistark&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Hey there fellow viewer I am Omkar Dutta
 
 <!--
