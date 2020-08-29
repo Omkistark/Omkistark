@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omkistark)&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omkistarktheme=dark&show_icons=true)
 ### About Me: 
 I am a college student currently pursuing my Bachelor's degree in Computer Science Engineering.
 
