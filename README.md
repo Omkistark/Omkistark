@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omkistark&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkistark)](https://github.com/anuraghazra/github-readme-stats)
 ### Hey there fellow viewer I am Omkar Dutta
 
 <!--
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omkistark&show_icons=true&theme=chartreuse-dark)
 ### About Me: 
 I am a college student currently pursuing my Bachelor's degree in Computer Science Engineering.
 
